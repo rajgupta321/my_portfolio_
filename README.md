@@ -48,11 +48,10 @@ This repository showcases my projects, skills, and work as a Flutter developer. 
 ## 🎥 Screen Recordings
 
 ### Desktop Demo
-[▶ Watch Video](recordings/desktop_demo.mp4)
+[▶ Watch Video](https://drive.google.com/file/d/1a52a_Qh0a3KJVLJFiZEp4813MWUvrbql/view?usp=drive_link)
 
 ### Mobile Demo
-[▶ Watch Video](recordings/mobile_demo.mp4)
-
+[▶ Watch Video](https://drive.google.com/file/d/1ZWfJNmP5nkHuaL4m9KKkkfpTpjGnaxoU/view?usp=sharing)
 > *Note: Screen recordings show live interaction with my portfolio on desktop and mobile devices.*
 
 ---
